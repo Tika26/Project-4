@@ -1,11 +1,14 @@
 # Project-4
 
-## Final Project Outlines
+## Final Project 
 
 o	Project ideation: 
-      Prediction of the Heart attack based on blood sugar levels and blood pressure between Males and Females.
+      Prediction of the Heart attack based on blood parameters between Males and Females.
 	
 o	Data Source: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+
+
+
 
 o	Data analysis:
 Using Pandas for Cleaning Data 
